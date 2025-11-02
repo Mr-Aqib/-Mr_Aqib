@@ -41,17 +41,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-aqib&show_icons=true&theme=tokyonight" alt="Aqib's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=muhammad-aqib&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-aqib&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=muhammad-aqib&label=Profile%20Views&color=0e75b6&style=flat" alt="muhammad-aqib" /> 
 </p>
